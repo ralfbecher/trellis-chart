@@ -1,4 +1,4 @@
-**2 Dimensional Heatmap** Visualization Extension for Qlik Sense is licensed under the "MIT" license:
+**Trellis Chart** Extension for Qlik Sense is licensed under the "MIT" license:
 
 > 
 > The MIT License (MIT)
